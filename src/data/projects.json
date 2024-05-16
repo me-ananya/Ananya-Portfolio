@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Symptoms Based Disease Predcition System",
+    "imageSrc": "projects/project1.png",
+    "description": "Facilitates illness identification by inputting symptoms, utilizing ML models for precise predictions, and providing precautions and doctor consultations as necessary.",
+    "skills": ["Sci-Kit Learn", "Numpy", "Pandas"],
+    "source": "https://github.com/me-ananya/Medical-Assistant.git"
+  },
+  {
+    "title": "Stock Price Prediction",
+    "imageSrc": "projects/project2.png",
+    "description": "Pioneered LSTM architecture integration into stock price forecasting, leveraging its proficiency in capturing complex long-term patterns in sequential data.",
+    "skills": ["Sci-Kit Learn", "Numpy", "Pandas"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/me-ananya/Stock_Price_Prediction.git"
+  },
+  {
+    "title": "Heart Disease Prediction",
+    "imageSrc": "projects/project3.png",
+    "description": "Created a user-friendly GUI enabling input of 13 heart-related metrics such as blood pressure, cholesterol levels for predicting heart disease.",
+    "skills": ["Tkinter","Sci-Kit Learn", "Numpy", "Pandas"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/me-ananya/Heart_Disease_Prediction.git"
+  }
+]
