@@ -12,7 +12,7 @@ export const Hero = () => {
         As a devoted computer science student, I seek to utilize my solid programming and problem-solving skills for a career in technology, particularly in machine learning. Driven by curiosity and a passion for innovation, I'm dedicated to ongoing learning and significant contributions to computer science.
 
         </p>
-        <a href="https://drive.google.com/file/d/1c4zY0_5Kupk4MrCVa9yXauuVSvz7Ioyc/view?usp=sharing" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1IZUJzfK7ZZW-6fJAVguX79VXqn16T-Bm/view?usp=sharing" className={styles.contactBtn}>
           Resume
         </a>
       </div>
